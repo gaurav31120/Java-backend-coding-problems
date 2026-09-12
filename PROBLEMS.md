@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 12/135**
+**Completed: 13/135**
 
 ## Spring Boot & REST
 
@@ -18,7 +18,7 @@
 - [x] **10. User Service** — ✅ DONE
 - [x] **11. Controller-Service Design** — ✅ DONE
 - [x] **12. Layered User API** — ✅ DONE
-- [ ] **13. GET Users**
+- [x] **13. GET Users** — ✅ DONE
 - [ ] **14. POST User**
 - [ ] **15. PUT User**
 - [ ] **16. DELETE User**
