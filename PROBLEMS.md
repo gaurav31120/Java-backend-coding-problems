@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 14/135**
+**Completed: 15/135**
 
 ## Spring Boot & REST
 
@@ -20,7 +20,7 @@
 - [x] **12. Layered User API** — ✅ DONE
 - [x] **13. GET Users** — ✅ DONE
 - [x] **14. POST User** — ✅ DONE
-- [ ] **15. PUT User**
+- [x] **15. REST | CRUD | PUT | User** — ✅ DONE
 - [ ] **16. DELETE User**
 - [ ] **17. Status Handling**
 - [ ] **18. HTTP Status Challenge**
