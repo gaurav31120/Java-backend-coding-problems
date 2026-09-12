@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 9/135**
+**Completed: 11/135**
 
 ## Spring Boot & REST
 
@@ -16,7 +16,7 @@
 - [x] **8. Constructor Injection** — ✅ DONE
 - [x] **9. Dependency Resolution** — ✅ DONE
 - [x] **10. User Service** — ✅ DONE
-- [ ] **11. Controller-Service Design**
+- [x] **11. Controller-Service Design** — ✅ DONE
 - [ ] **12. Layered User API**
 - [ ] **13. GET Users**
 - [ ] **14. POST User**
