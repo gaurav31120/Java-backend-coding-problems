@@ -14,8 +14,8 @@
 - [x] **6. Create User** — ✅ DONE
 - [x] **7. User Controller** — ✅ DONE
 - [x] **8. Constructor Injection** — ✅ DONE
-- [ ] **9. Dependency Resolution**
-- [ ] **10. User Service**
+- [x] **9. Dependency Resolution** — ✅ DONE
+- [x] **10. User Service** — ✅ DONE
 - [ ] **11. Controller-Service Design**
 - [ ] **12. Layered User API**
 - [ ] **13. GET Users**
