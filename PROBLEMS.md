@@ -22,7 +22,7 @@
 - [x] **14. POST User** — ✅ DONE
 - [x] **15. REST | CRUD | PUT | User** — ✅ DONE
 - [x] **16. REST | CRUD | DELETE | User** — ✅ DONE
-- [ ] **17. Status Handling**
+- [x] **17. REST | ResponseEntity | Status Handling** — ✅ DONE
 - [ ] **18. HTTP Status Challenge**
 
 ## DTO & Validation
