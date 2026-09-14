@@ -30,7 +30,7 @@
 - [x] **19. UserRequest DTO** — ✅ DONE
 - [x] **20. UserResponse DTO** — ✅ DONE
 - [x] **21. Entity-DTO Mapper** — ✅ DONE
-- [ ] **22. User Validation**
+- [x] **22. Validation — Bean Validation: User Validation** — ✅ DONE
 - [ ] **23. Registration Validation**
 - [ ] **24. Validation Error API**
 
