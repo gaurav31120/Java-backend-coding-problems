@@ -23,4 +23,19 @@ public class UserRepository {
         }
         return null;
     }
+    public int getNextId() {
+        int maxId = 0;
+
+        for (User user : users) {
+            if (user.getId() > maxId) {
+                maxId = user.getId();
+            }
+        }
+
+        return maxId + 1;
+    }
+
+    public void addUser(User user) {
+        users.add(user);
+    }
 }
