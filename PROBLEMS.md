@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 16/135**
+**Completed: 19/135**
 
 ## Spring Boot & REST
 
@@ -27,7 +27,7 @@
 
 ## DTO & Validation
 
-- [ ] **19. UserRequest**
+- [x] **19. UserRequest DTO** — ✅ DONE
 - [ ] **20. UserResponse**
 - [ ] **21. Entity-DTO Mapper**
 - [ ] **22. User Validation**
