@@ -36,7 +36,7 @@
 
 ## Exception Handling & Spring Internals
 
-- [ ] **25. UserNotFound**
+- [x] **25. Exception — Custom Exception: UserNotFound** — ✅ DONE
 - [ ] **26. ExceptionHandler**
 - [ ] **27. ControllerAdvice**
 - [ ] **28. DispatcherServlet Flow**
