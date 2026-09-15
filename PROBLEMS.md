@@ -32,7 +32,7 @@
 - [x] **21. Entity-DTO Mapper** — ✅ DONE
 - [x] **22. Validation — Bean Validation: User Validation** — ✅ DONE
 - [x] **23. Validation — Multiple Rules: Registration Validation** — ✅ DONE
-- [ ] **24. Validation Error API**
+- [x] **24. Validation — Error response: Validation Error API** — ✅ DONE
 
 ## Exception Handling & Spring Internals
 
