@@ -2,7 +2,7 @@
 
 ## Progress
 
-**Completed: 21/135**
+**Completed: 23/135**
 
 ## Spring Boot & REST
 
@@ -31,7 +31,7 @@
 - [x] **20. UserResponse DTO** — ✅ DONE
 - [x] **21. Entity-DTO Mapper** — ✅ DONE
 - [x] **22. Validation — Bean Validation: User Validation** — ✅ DONE
-- [ ] **23. Registration Validation**
+- [x] **23. Validation — Multiple Rules: Registration Validation** — ✅ DONE
 - [ ] **24. Validation Error API**
 
 ## Exception Handling & Spring Internals
